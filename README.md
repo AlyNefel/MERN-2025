@@ -1,7 +1,7 @@
 # Welcome to the MERN Stack 🚀
 
 ![Alt Text](https://th.bing.com/th/id/R.49e874ad22c1d7200fb77317a3329020?rik=MH7pH7ix2jN%2fSw&pid=ImgRaw&r=0)
-
+![Alt Text](https://thereadersea.com/wp-content/uploads/2023/05/mern-stack.png)
 ## Introduction
 Welcome, future MERN wizards! 🧙‍♂️🧙‍♀️ Get ready to embark on an epic journey through the magical world of full-stack development with the MERN stack. This bootcamp is designed to transform you into a skilled MERN developer, capable of tackling real-world projects with confidence and finesse.
 
