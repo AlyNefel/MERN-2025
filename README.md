@@ -14,7 +14,7 @@ You'll learn the ins and outs of the MERN stack, one of the most powerful and ve
 We've compiled a list of resources to help you along the way:
 - [MongoDB Documentation 📖](https://docs.mongodb.com/)
 - [Express.js Documentation 🌐](https://expressjs.com/)
-- [React Documentation ⚛️](https://react.dev/)
+- [React Documentation ⚛️](https://react.dev/) 
 - [Node.js Documentation 📘](https://nodejs.org/en/docs/)
 - [Coding Dojo Platform 🎓](https://login.codingdojo.africa/dashboard)
 
