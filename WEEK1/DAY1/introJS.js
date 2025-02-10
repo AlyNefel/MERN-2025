@@ -65,3 +65,4 @@ function quiz3() {
     console.log(age); 
 }
 quiz3();
+//🥷
