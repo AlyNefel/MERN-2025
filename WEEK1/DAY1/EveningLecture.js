@@ -120,29 +120,7 @@
 // const message=age <18 ? "You are not allowed to Party !!":"Welcome to Alien Party !! "
 // console.log(message)
 
-//🥷Destructring with array of function 
-let firstName="Alien"
-const name=[
- ()=>{
-    console.log(firstName);
-    return firstName
- },
- (newName)=>{
-  
-    //🥷we will set the new value to our firstName
-    firstName=newName
-    return firstName
- }
-]
 
-const [getter,setter]=name
-
-//🥷 lets get and show our first name 
-getter()
-//🥷lets' set or change the value of our firstName
-setter("Bali")
-//🥷how to check if the value has changes 
-getter()
 
 //🥷in react we will use this a lot  : const [getter,setter]=useState()
 // // // //1-Arrow Function 
@@ -266,3 +244,26 @@ const loading = false;
 
 const message=age <18 ? "You are not allowed to Party !!":"Welcome to Alien Party !! "
 console.log(message)
+//🥷Destructring with array of function 
+let firstName="Alien"
+const name=[
+ ()=>{
+    console.log(firstName);
+    return firstName
+ },
+ (newName)=>{
+  
+    //🥷we will set the new value to our firstName
+    firstName=newName
+    return firstName
+ }
+]
+
+const [getter,setter]=name
+
+//🥷 lets get and show our first name 
+getter()
+//🥷lets' set or change the value of our firstName
+setter("Bali")
+//🥷how to check if the value has changes 
+getter()
