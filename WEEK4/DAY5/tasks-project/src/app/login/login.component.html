@@ -1,0 +1,9 @@
+
+<div class="container mt-4">
+<form class="form-control" (submit)="onSubmit()">
+    <input class="form-control mt-3" name="email"  type="email" [(ngModel)]="email" placeholder="Email" required>
+    <input class="form-control mt-4" name="password"  type="password" [(ngModel)]="password" placeholder="Password" required>
+    <button class="btn btn-primary mt-3" type="submit">Login</button>
+    <p class="text-danger" *ngIf="errorMessage.error"> {{errorMessage.error.msg}} </p>
+  </form>
+</div>
